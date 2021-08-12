@@ -2,19 +2,13 @@
 
 ## Created for a Rio Innovation Week website.
 
-<h1 align="center">
-    <a href="https://www.javascript.com">JavaScript</a>
-</h1>
-
 ![Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#features">Features</a> •
+ <a href="#prerequisites">Prerequisites</a> • 
+ <a href="#author">Author</a> • 
+ <a href="#license">License</a>
 </p>
 
 <h4 align="center"> 
@@ -31,7 +25,7 @@
 - [VSCode](https://code.visualstudio.com/) (or your favorite code editor)
 - Plugin that allows adding html code (if you are a Wordpress user)
 
-## 🦸 Autor
+## 🦸 Author
 
 <a href="https://github.com/lucasbpereira">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/9020595?v=4" width="100px;" alt=""/>
@@ -41,7 +35,7 @@
 
 ---
 
-## 📝 Licença
+## 📝 License
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
